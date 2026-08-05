@@ -27,4 +27,4 @@ A collection of MATLAB implementations of classical numerical methods developed 
 
 ## Software
 
-- MATLAB R2023a (or your version)
+- MATLAB R2023a
